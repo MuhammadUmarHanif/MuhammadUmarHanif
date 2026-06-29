@@ -80,12 +80,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmarHanif&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUmarHanif&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=0e75b6&line=0e75b6&point=FFFFFF" alt="Activity Graph" width="100%" />
 </p>
 
 ---
