@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmarHanif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadUmarHanif&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmarHanif&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
 </p>
 
 <p align="center">
@@ -83,7 +83,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmarHanif&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmarHanif&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
 ---
@@ -96,5 +98,5 @@
 
 <br/>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MuhammadUmarHanif&icon=5&color=6" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadUmarHanif&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
