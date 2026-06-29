@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Muhammad Umar Hanif</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable & Real-Time Web Applications 🚀</h3>
 
@@ -26,22 +25,22 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammadumar16" target="blank">
+<a href="https://linkedin.com/in/muhammadumar16" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/i_umar_0" target="blank">
+<a href="https://instagram.com/i_umar_0" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/muhammadumar200201" target="blank">
+<a href="https://fb.com/muhammadumar200201" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-# 💻 MERN Stack & Tools
+## 💻 MERN Stack & Tools
 
 <p align="left">
 
@@ -97,9 +96,9 @@
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 🔹 Real-Time Code Editor
+### 🔹 Real-Time Code Editor
 
 ✨ A MERN Stack based collaborative coding platform featuring:
 
@@ -109,11 +108,11 @@
 - 🏠 Room-based coding sessions
 - 🧠 Online code compiler integration
 
-🔗 Live Demo: https://quickcodefy.netlify.app/
+🔗 **Live Demo:** [https://quickcodefy.netlify.app/](https://quickcodefy.netlify.app/)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmarHanif&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
@@ -129,7 +128,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUmarHanif&theme=algolia&no-frame=true&margin-w=8" />
@@ -137,7 +136,7 @@
 
 ---
 
-# ✨ Random Dev Quote
+## ✨ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -145,9 +144,8 @@
 
 ---
 
-# 👀 Visitor Count
+## 👀 Visitor Count
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=MuhammadUmarHanif&icon=5&color=6" />
 </p>
-```
